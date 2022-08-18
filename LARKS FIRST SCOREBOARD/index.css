@@ -1,0 +1,129 @@
+body {
+    margin: 0;
+    background-image: url("images/kobe.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+@font-face {
+  font-family: 'digital-7';
+  src: url('../fonts/digital-7.ttf');
+}
+
+html {
+    height: 100%;
+}
+
+.scoreH {
+    position: relative;
+    top: -15px;
+    right: -5px;
+}
+
+#homeScore {
+    font-size: 80px;
+    position: absolute;
+    top: -50px;
+    left: 20px;
+    -webkit-text-fill-color: #F94F6D;;
+    font-family: 'digital-7';
+    
+}
+
+.scoreA {
+    position: relative;
+    top: -15px;
+    right: -5px;
+}
+
+#awayScore {
+    font-size: 80px;
+    position: absolute;
+    top: -50px;
+    left: 20px;
+    -webkit-text-fill-color: #F94F6D;
+    font-family: 'digital-7';
+    
+}
+
+#reset-btn {
+    position: relative;
+    margin: auto;
+    top: 50px;
+    left: 44%;
+    color: black;
+    background-color: white;
+    border-color: white;   
+    font-family: impact;
+
+    
+    
+}
+
+.home {
+   position: relative;
+    left: 20px;
+    font-size: 30px;
+    font-family: fantasy;
+    -webkit-text-fill-color: white;
+    -webkit-text-stroke: 0.5px black;
+}
+
+.away {
+    position: relative;
+    left: 20px;
+    font-size: 30px;
+    font-family: fantasy;
+    -webkit-text-fill-color: white;
+    -webkit-text-stroke: 0.5px black;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    size: 
+}
+
+.btn-1 {
+    color: black;
+    background-color: white;
+    border-color: whitesmoke;   
+    font-family: impact;
+}
+
+.btn-2 {
+    color: black;
+    background-color: white;
+    border-color: whitesmoke;  
+    font-family: impact;
+}
+
+.btn-3 {
+    color: black;
+    background-color: white;
+    border-color: whitesmoke;   
+    font-family: impact;
+}
+
+.btn-4 {
+    color: black;
+    background-color: white;
+    border-color: whitesmoke;   
+    font-family: impact;
+}
+
+.btn-5 {
+    color: black;
+    background-color: white;
+    border-color: whitesmoke;  
+    font-family: impact;
+    
+}
+
+.btn-6 {
+    color: black;
+    background-color: white;
+    border-color: whitesmoke;  
+    font-family: impact;
+    
+}
