@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-image: url("images/SPY.gif");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+h1 {
+    font-family: impact;
+    font-size: 200;
+    color: white;
+    border: black;
+    border-color: white;
+    border-spacing: 20px;
+    -webkit-text-stroke: black 2px;
+}
+
+#message-el {
+    font-size: 25
+    
+    
+}
+
+#cards-el {
+    font-family: impact;
+    font-size: 35;
+    color: white;
+    border: black;
+    border-color: white;
+    border-spacing: 20px;
+    -webkit-text-stroke: black 2px;
+}
+
+#sum-el {
+    font-family: impact;
+    font-size: 35px;
+    color: white;
+    border: black;
+    border-color: white;
+    border-spacing: 20px;
+    -webkit-text-stroke: black 2px;
+}
